@@ -11,3 +11,7 @@ All things new development team related
 - [ ] Team Wolf Pack
 - [ ] Team Kingsmen
 - [ ] Team Vemon (Thank you Tom Hardy!)
+- [ ] Branching Out
+- [ ] JSons n Daughters
+- [ ] Codin n Co
+- [ ] Team Tenacity
