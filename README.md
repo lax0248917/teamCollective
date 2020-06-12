@@ -18,12 +18,12 @@ All things new development team related
 - [ ] undefined Team
 - [ ] Fierce JS-scripters
 - [ ] Followers of JSON
-- [ ] !Lazy Coders
+- [x] !Lazy Coders
 - [ ] Team Tango
 - [ ] The Warriors
 - [ ] Revolution Team
-- [ ] Coconut Tree Team
+- [x] Coconut Tree Team
 - [ ] Blue Hammock Team
 - [ ] The Shoal Team
 - [ ] The Common Marmoset Team
-- [ ] Armadillo Team
+- [x] Armadillo Team
