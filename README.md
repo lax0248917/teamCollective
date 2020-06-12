@@ -6,7 +6,7 @@ All things new development team related
 
 - [ ] Team Spartans
 - [ ] Team IronMan (had to!)
-- [ ] Team Evolve
+- [x] Team Evolve
 - [ ] Team Rocket (for any pokemon fans)
 - [ ] Team Wolf Pack
 - [ ] Team Kingsmen
