@@ -23,7 +23,7 @@ All things new development team related
 - [ ] The Warriors
 - [ ] Revolution Team
 - [x] Coconut Tree Team
-- [ ] Blue Hammock Team
+- [x] Blue Hammock Team
 - [ ] The Shoal Team
 - [ ] The Common Marmoset Team
 - [x] Armadillo Team
