@@ -19,4 +19,4 @@ All things new development team related
 - [ ] Fierce JS-scripters
 - [ ] Followers of JSON
 - [ ] !Lazy Coders
--
+- [ ] Team Tango
