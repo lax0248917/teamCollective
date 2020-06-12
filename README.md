@@ -20,6 +20,10 @@ All things new development team related
 - [ ] Followers of JSON
 - [ ] !Lazy Coders
 - [ ] Team Tango
-
-
-### Code change example
+- [ ] The Warriors
+- [ ] Revolution Team
+- [ ] Coconut Tree Team
+- [ ] Blue Hammock Team
+- [ ] The Shoal Team
+- [ ] The Common Marmoset Team
+- [ ] Armadillo Team
