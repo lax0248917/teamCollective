@@ -20,3 +20,6 @@ All things new development team related
 - [ ] Followers of JSON
 - [ ] !Lazy Coders
 - [ ] Team Tango
+
+
+### Code change example
