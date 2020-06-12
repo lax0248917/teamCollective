@@ -13,7 +13,7 @@ All things new development team related
 - [ ] Team Vemon (Thank you Tom Hardy!)
 - [ ] Branching Out
 - [ ] JSons n Daughters
-- [ ] Codin n Co
+- [x] Codin n Co
 - [ ] Team Tenacity
 - [ ] undefined Team
 - [ ] Fierce JS-scripters
