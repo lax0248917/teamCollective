@@ -6,7 +6,7 @@ All things new development team related
 
 - [ ] Team Spartans
 - [ ] Team IronMan (had to!)
-- [x] Team Evolve
+- [ ] Team Evolve
 - [ ] Team Rocket (for any pokemon fans)
 - [ ] Team Wolf Pack
 - [ ] Team Kingsmen
@@ -18,7 +18,7 @@ All things new development team related
 - [ ] undefined Team
 - [ ] Fierce JS-scripters
 - [ ] Followers of JSON
-- [x] !Lazy Coders
+- [ ] !Lazy Coders
 - [ ] Team Tango
 - [ ] The Warriors
 - [ ] Revolution Team
