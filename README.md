@@ -15,3 +15,8 @@ All things new development team related
 - [ ] JSons n Daughters
 - [ ] Codin n Co
 - [ ] Team Tenacity
+- [ ] undefined Team
+- [ ] Fierce JS-scripters
+- [ ] Followers of JSON
+- [ ] !Lazy Coders
+-
