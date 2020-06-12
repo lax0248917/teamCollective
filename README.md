@@ -2,7 +2,7 @@
 
 All things new development team related
 
-## First Task: Add your suggestions for team name here. Deadline for submission - 9:00 AM July 12th, 2020
+## First Task: Add your suggestions for team name here. Deadline for submission - 9:00 AM ([EDT](https://www.timeanddate.com/time/zones/edt)) July 12th, 2020
 
 - [ ] Team Spartans
 - [ ] Team IronMan (had to!)
